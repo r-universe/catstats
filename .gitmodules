@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "misspi"]
 	path = misspi
-	url = https://github.com/cran/misspi
+	url = https://github.com/catstats/misspi
